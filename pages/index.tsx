@@ -11,7 +11,6 @@ export default function Home() {
         <div className={styles.description}>
           Thank you. You reached Gurung.
         </div>
-        But the website is yet to come. See you Soon!!
       </main>
     </div>
   )
